@@ -19,4 +19,4 @@ Password generator, version 2. The first version is [here](https://github.com/Za
 ## Features
 
 - Flexible system of password generator settings (you can customize the password length and configure groups of characters that can be included in the password.)
-- Nice and easy to use UI with some animations (unlike the first version, there are no problems with displaying elements in different browsers). *For some reason, the "rage" (aka scrollbar) in Firefox is dark blue, which is not quite correct, please tell me how to solve this problem (the desired color is #3B75BA), [screenshot](https://user-images.githubusercontent.com/51060911/211517881-ead48818-b505-4c8e-af63-032c5223a524.png)*
+- Nice and easy to use UI with some animations (unlike the first version, there are no problems with displaying elements in different browsers). *For some reason, the "range" (aka scrollbar) in Firefox is dark blue, which is not quite correct, please tell me how to solve this problem (the desired color is #3B75BA), [screenshot](https://user-images.githubusercontent.com/51060911/211517881-ead48818-b505-4c8e-af63-032c5223a524.png)*
